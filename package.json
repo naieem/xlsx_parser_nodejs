@@ -1,0 +1,26 @@
+{
+    "name": "excelupload",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "latest",
+        "express": "latest",
+        "multer": "latest"
+    },
+    "devDependencies": {
+        "guid": "0.0.12",
+        "node-uuid-generator": "^1.0.0",
+        "uuid-random": "^1.0.6",
+        "winston": "^2.4.0",
+        "xls-to-json-lc": "^0.3.4",
+        "xlsx": "^0.11.5",
+        "xlsx-to-json-lc": "^0.5.0"
+    }
+}
