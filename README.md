@@ -3,7 +3,7 @@
 ## Quick Setup
 
 1) `git clone https://github.com/naieem/xlsx_parser_nodejs.git` <br>
-2) `cd excel-to-json-in-Node.js` <br>
+2) `cd xlsx_parser_nodejs` <br>
 3) `npm install` <br>
 4) `node app.js` <br>
 5) In your browser `http://localhost:3000` <br>
